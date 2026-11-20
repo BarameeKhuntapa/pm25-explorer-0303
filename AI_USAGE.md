@@ -1,3 +1,3 @@
 | วันที่ | ใช้ AI ช่วยเรื่องอะไร | เครื่องมือ | ตรวจสอบผลอย่างไร |
 |---|---|---|---|
-| 2026-11-11 | แก้ไขปัญหา Python executable ใน Virtual Environment จาก Windows Application Control และตั้งค่า kernel dstoolbox สำหรับ Jupyter | Antigravity (Gemini) | รันคำสั่งตรวจสอบการ import pandas, duckdb, plotly, streamlit และทดสอบรัน notebook |
+| 2026-11-11 | แก้ไขปัญหา Python executable ใน Virtual Environment จาก Windows Application Control และตั้งค่า kernel dstoolbox สำหรับ Jupyter | Antigravity (Gemini) | รันคำสั่งตรวจสอบการ import pandas, duckdb, plotly, streamlit และทดสอบรัน notebook || 2026-11-20 | ช่วยจัดโครงสร้างคำถามเชิงวิเคราะห์ questions.md ตามเกณฑ์ และช่วยเขียนโค้ดสำรวจข้อมูลใน notebooks/02_first_look.ipynb | Antigravity (Gemini) | ผู้เรียนกำหนดประเด็นเรื่องฤดูกาลและช่วงเวลาเร่งด่วนในพื้นที่อีสานด้วยตนเอง และตรวจสอบผลรันจริงใน notebook |
